@@ -1,0 +1,23 @@
+{
+  "name": "0421day02.1",
+  "version": "1.0.0",
+  "description": "历史管理，工作区修改，暂存区修改，历史分支",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmy-0808/0421febzhi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmy-0808/0421febzhi/issues"
+  },
+  "homepage": "https://github.com/rmy-0808/0421febzhi#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
